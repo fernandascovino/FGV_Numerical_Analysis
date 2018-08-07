@@ -13,3 +13,7 @@ elípticas e hiperbólicas): diferenças finitas e elementos finitos. ([Plano de
 
 \*ordem das matérias vai seguir o livro
 
+Notebook | Capítulos
+---|---
+[Floating Ponints](08-02_floating_points.ipynb) | Cap. 1.1 + 1.3
+[Sitemas Lineares: métodos iterativos] | Cap. 8
