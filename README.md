@@ -16,4 +16,5 @@ elípticas e hiperbólicas): diferenças finitas e elementos finitos. ([Plano de
 Notebook | Capítulos
 ---|---
 [Pontos Flutuantes](08-02_floating_points.ipynb) | Cap. 1.1 + 1.3
-[Sitemas Lineares: métodos iterativos](08-07_linear_sys.ipynb) | Cap. 8
+[Sitemas Lineares: métodos iterativos](08-07_linear_sys.ipynb) | Cap. 8.1 + 8.2
+[Sitemas Não Lineares: métodos iterativos](08-14_non_linear_sys.ipynb) | Cap 3.1 + 3.2
