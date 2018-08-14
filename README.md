@@ -2,7 +2,7 @@
 
 Exercícios e anotações do curso de Análise Numérica da graduação em Matemática Aplicada @ FGV/EMAp.
 
-**Livro**: [Cheney, W. & Kincaid, D. *Numerical Mathematics and Computing*](https://books.google.com.br/books?id=PewJAAAAQBAJ&pg=PA20&dq=numerical+mathematics+and+computing+chapter+1&hl=pt-BR&sa=X&ved=0ahUKEwjVk7e0qs7cAhVBi1kKHbeFCxsQuwUIDTAA#v=onepage&q=numerical%20mathematics%20and%20computing%20chapter%201&f=false)
+**Livro**: [Cheney, W. & Kincaid, D. *Numerical Mathematics and Computing*](https://www.amazon.com/Numerical-Mathematics-Computing-Ward-Cheney/dp/1133103715/ref=dp_ob_title_bk)
 
 **Ementa**\*: Aritmética numérica. Álgebra linear numérica: sistemas lineares, minimos quadrados,
 problemas de autovalores; fatorizações LU, Cholesky, QR e SVD. Otimização: método do gradiente
