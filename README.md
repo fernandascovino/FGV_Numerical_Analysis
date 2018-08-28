@@ -18,3 +18,4 @@ Notebook | Capítulos
 [Pontos Flutuantes](08-02_floating_points.ipynb) | Cap. 1.1 + 1.3
 [Sitemas Lineares: métodos iterativos](08-07_09_linear_sys.ipynb) | Cap. 8.1 + 8.2 + 8.4
 [Sitemas Não Lineares: métodos iterativos](08-14_16_non_linear_sys.ipynb) | Cap 3
+[Interpolação e diferenciação numérica](08-28_numerical_interpolation_diff.ipynb) | Cap. 4
