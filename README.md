@@ -19,6 +19,6 @@ Notebook | Capítulos
 [Sitemas Lineares: métodos iterativos](08-07_09_linear_sys.ipynb) | Cap. 8.1 + 8.2 + 8.4
 [Sitemas Não Lineares: métodos iterativos](08-14_16_non_linear_sys.ipynb) | Cap 3
 [Interpolação e diferenciação numérica](08-28_30_numerical_interpolation_diff.ipynb) | Cap. 4
-[Função Spline](09-06_spline_function.ipynb).ipynb) | Cap. 6
+[Função Spline](09-06_spline_function.ipynb) | Cap. 6
 [Problemas de valores iniciais](09-11_numerical_integration.ipynb) | Cap. 7
 
