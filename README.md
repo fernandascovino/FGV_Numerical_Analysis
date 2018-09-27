@@ -20,5 +20,6 @@ Notebook | Capítulos
 [Sitemas Não Lineares: métodos iterativos](08-14_16_non_linear_sys.ipynb) | Cap 3
 [Interpolação e diferenciação numérica](08-28_30_numerical_interpolation_diff.ipynb) | Cap. 4
 [Função Spline](09-06_spline_function.ipynb) | Cap. 6
-[Problemas de valores iniciais](09-11_numerical_integration.ipynb) | Cap. 7
+[Problemas de valores iniciais: Método de Euler](09-11_13_numerical_integration.ipynb) | Cap. 7.1
+[Problemas de valores iniciais: Método de Euler Implícito e Método de Heun](09-25_27_implicity_euler_&_heun.ipynb) | Cap. 7.2
 
