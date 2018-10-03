@@ -22,4 +22,4 @@ Notebook | Capítulos
 [Função Spline](09-06_spline_function.ipynb) | Cap. 6
 [Problemas de valores iniciais: Método de Euler](09-11_13_numerical_integration.ipynb) | Cap. 7.1
 [Problemas de valores iniciais: Método de Euler Implícito e Método de Heun](09-25_27_implicity_euler_&_heun.ipynb) | Cap. 7.2
-
+[Extrapolação de Richardson e Fórmula de Simpson](10-02_extrapolation_&_simpson.ipynb) | Cap. 4.3 + 5.2 + 5.3
