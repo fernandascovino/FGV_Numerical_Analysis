@@ -22,4 +22,4 @@ Notebook | Capítulos
 [Função Spline](09-06_spline_function.ipynb) | Cap. 6
 [Problemas de valores iniciais: Método de Euler](09-11_13_initial_value_problems_pt1.ipynb) | Cap. 7.1
 [Problemas de valores iniciais: Método de Euler Implícito e Método de Heun](09-25_27_initial_value_problems_pt2.ipynb) | Cap. 7.2
-[Métodos de integração numérica](10-02_numerical_integration.ipynb) | Cap. 4.3 + 5.1-3
+[Métodos de integração numérica](10-02_04_numerical_integration.ipynb) | Cap. 4.3 + 5.1-3
