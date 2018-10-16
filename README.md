@@ -13,6 +13,10 @@ elípticas e hiperbólicas): diferenças finitas e elementos finitos. ([Plano de
 
 \*ordem das matérias vai seguir o livro
 
+**Conteúdo:**
+
+A pasta [listas](listas) contém os enunciados dos exercícios propostos em sala, e a pasta [projeto](projeto) contém o eneunciado e a implementação do projeto desenvolvido no final do curso.
+
 Notebook | Capítulos
 ---|---
 [Pontos Flutuantes](08-02_floating_points.ipynb) | Cap. 1.1 + 1.3
