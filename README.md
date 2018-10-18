@@ -2,7 +2,7 @@
 
 Exercícios e anotações do curso de Análise Numérica da graduação em Matemática Aplicada @ FGV/EMAp.
 
-**Livro**: [Cheney, W. & Kincaid, D. *Numerical Mathematics and Computing*](https://www.amazon.com/Numerical-Mathematics-Computing-Ward-Cheney/dp/1133103715/ref=dp_ob_title_bk)
+**Livro**: [Cheney, W. & Kincaid, D. *Numerical Mathematics and Computing*, 6th edition](https://www.amazon.com/Numerical-Mathematics-Computing-Ward-Cheney/dp/1133103715/ref=dp_ob_title_bk)
 
 **Ementa**\*: Aritmética numérica. Álgebra linear numérica: sistemas lineares, minimos quadrados,
 problemas de autovalores; fatorizações LU, Cholesky, QR e SVD. Otimização: método do gradiente
@@ -26,4 +26,5 @@ Notebook | Capítulos
 [Função Spline](09-06_spline_function.ipynb) | Cap. 6
 [Problemas de valores iniciais: Método de Euler](09-11_13_initial_value_problems_pt1.ipynb) | Cap. 7.1
 [Problemas de valores iniciais: Método de Euler Implícito e Método de Heun](09-25_27_initial_value_problems_pt2.ipynb) | Cap. 7.2
-[Métodos de integração numérica](10-02_04_numerical_integration.ipynb) | Cap. 4.3 + 5.1-3
+[Métodos de integração numérica: Regra do Trapezio, Simpson e Algoritmo de Romberg](10-02_04_numerical_integration_pt1.ipynb) | Cap. 4.3 + 5.1-3
+[Métodos de integração numérica: Quadratura Gaussiana e Monte Carlo](10-18_numerical_integration_pt2.ipynb) | Cap. 5.4 + 10
