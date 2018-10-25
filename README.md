@@ -25,6 +25,7 @@ Notebook | Capítulos
 [Interpolação e diferenciação numérica](08-28_30_numerical_interpolation_diff.ipynb) | Cap. 4
 [Função Spline](09-06_spline_function.ipynb) | Cap. 6
 [Problemas de valores iniciais: Método de Euler](09-11_13_initial_value_problems_pt1.ipynb) | Cap. 7.1
-[Problemas de valores iniciais: Método de Euler Implícito e Método de Heun](09-25_27_initial_value_problems_pt2.ipynb) | Cap. 7.2
+[Problemas de valores iniciais: Método de Euler Implícito e Método de Heun](09-25_initial_value_problems_pt2.ipynb) | Cap. 7.2
+[Resolvendo exercícios da lista 25-09](09_27_solving_exercises.ipnb) | -
 [Métodos de integração numérica: Regra do Trapezio, Simpson e Algoritmo de Romberg](10-02_04_numerical_integration_pt1.ipynb) | Cap. 4.3 + 5.1-3
 [Métodos de integração numérica: Quadratura Gaussiana e Monte Carlo](10-18_numerical_integration_pt2.ipynb) | Cap. 5.4 + 10
