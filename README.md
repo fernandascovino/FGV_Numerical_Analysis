@@ -17,9 +17,9 @@ elípticas e hiperbólicas): diferenças finitas e elementos finitos. ([Plano de
 
     ├── README.md          <- this file :)
     ├── material           <- Jupyter notebooks with material and exercises solutions
+      └── images           <- images used in notebook files
     ├── exercises          <- exercises enunciates
-    ├── project            <- project developed in the course
-    └── images             <- images used in notebook files
+    └── project            <- project developed in the course
 
 
 Notebook | Capítulos
