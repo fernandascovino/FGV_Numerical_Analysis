@@ -15,17 +15,22 @@ elípticas e hiperbólicas): diferenças finitas e elementos finitos. ([Plano de
 
 **Conteúdo:**
 
-A pasta [listas](listas) contém os enunciados dos exercícios propostos em sala, e a pasta [projeto](projeto) contém o eneunciado e a implementação do projeto desenvolvido no final do curso.
+    ├── README.md          <- this file :)
+    ├── material           <- Jupyter notebooks with material and exercises solutions
+    ├── exercises          <- exercises enunciates
+    ├── project            <- project developed in the course
+    └── images             <- images used in notebook files
+
 
 Notebook | Capítulos
 ---|---
-[Pontos Flutuantes](08-02_floating_points.ipynb) | Cap. 1.1 + 1.3
-[Sitemas Lineares: métodos iterativos](08-07_09_linear_sys.ipynb) | Cap. 8.1 + 8.2 + 8.4
-[Sitemas Não Lineares: métodos iterativos](08-14_16_non_linear_sys.ipynb) | Cap 3
-[Interpolação e diferenciação numérica](08-28_30_numerical_interpolation_diff.ipynb) | Cap. 4
-[Função Spline](09-06_spline_function.ipynb) | Cap. 6
-[Problemas de valores iniciais: Método de Euler](09-11_13_initial_value_problems_pt1.ipynb) | Cap. 7.1
-[Problemas de valores iniciais: Método de Euler Implícito e Método de Heun](09-25_initial_value_problems_pt2.ipynb) | Cap. 7.2
-[Resolvendo exercícios da lista 25-09](09_27_solving_exercises.ipnb) | -
-[Métodos de integração numérica: Regra do Trapezio, Simpson e Algoritmo de Romberg](10-02_04_numerical_integration_pt1.ipynb) | Cap. 4.3 + 5.1-3
-[Métodos de integração numérica: Quadratura Gaussiana e Monte Carlo](10-18_numerical_integration_pt2.ipynb) | Cap. 5.4 + 10
+[Pontos Flutuantes](material/08-02_floating_points.ipynb) | Cap. 1.1 + 1.3
+[Sitemas Lineares: métodos iterativos](material/08-07_09_linear_sys.ipynb) | Cap. 8.1 + 8.2 + 8.4
+[Sitemas Não Lineares: métodos iterativos](material/08-14_16_non_linear_sys.ipynb) | Cap 3
+[Interpolação e diferenciação numérica](material/08-28_30_numerical_interpolation_diff.ipynb) | Cap. 4
+[Função Spline](material/09-06_spline_function.ipynb) | Cap. 6
+[Problemas de valores iniciais: Método de Euler](material/09-11_13_initial_value_problems_pt1.ipynb) | Cap. 7.1
+[Problemas de valores iniciais: Método de Euler Implícito e Método de Heun](material/09-25_initial_value_problems_pt2.ipynb) | Cap. 7.2
+[Resolvendo exercícios da lista 25-09](material/09_27_solving_exercises.ipnb) | -
+[Métodos de integração numérica: Regra do Trapezio, Simpson e Algoritmo de Romberg](material/10-02_04_numerical_integration_pt1.ipynb) | Cap. 4.3 + 5.1-3
+[Métodos de integração numérica: Quadratura Gaussiana e Monte Carlo](material/10-18_numerical_integration_pt2.ipynb) | Cap. 5.4 + 10
