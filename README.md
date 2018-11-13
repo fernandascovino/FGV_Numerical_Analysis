@@ -34,3 +34,4 @@ Notebook | Capítulos
 [Resolvendo exercícios da lista 25-09](material/09_27_solving_exercises.ipnb) | -
 [Métodos de integração numérica: Regra do Trapezio, Simpson e Algoritmo de Romberg](material/10-02_04_numerical_integration_pt1.ipynb) | Cap. 4.3 + 5.1-3
 [Métodos de integração numérica: Quadratura Gaussiana e Monte Carlo](material/10-18_numerical_integration_pt2.ipynb) | Cap. 5.4 + 10
+[Métodos numéricos de resolução de EDPs](material/10_30_partial_diff_equations.ipynb) | Cap. 12.1 + 12.2
