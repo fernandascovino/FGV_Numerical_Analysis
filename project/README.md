@@ -24,9 +24,21 @@ O método de decomposição do modo empírico (EMD) nos permite decompor um conj
 
 #### O que são IMFs?
 
-Uma função de modo intrínseco é definida como qualquer função que tenha o mesmo, ou diferindo no máximo por um, números de zeros (cruzam o eixo x) e extremos, e também ter "envelopes simétricos" definidos pelos máximos e mínimos locais, respectivamente (os dados devem se localizar entre essas funções).<sup>3</sup>. As splines cúbicas são utilizadas para traçarmos esses envelopes, conectando os máximos/mínimos locais.<sup>4</sup> 
+Uma função de modo intrínseco é definida como qualquer função que tenha os mesmos, ou diferindo no máximo por um, números de zeros (cruzam o eixo x) e extremos, e também ter "envelopes simétricos" definidos pelos máximos e mínimos locais, respectivamente (os dados devem se localizar entre essas funções).<sup>3</sup>. As splines cúbicas são utilizadas para traçarmos esses envelopes, conectando os máximos/mínimos locais.<sup>4</sup> 
 
 Vale ressaltar que não existe um emabamento teórico apra a utilização da spline em relação a outras técnicas de interpolação, um dos motivos pelo qual o EMD é dito empírico. 
+
+#### Critérios de parada 
+
+##### Desvio padrão 
+
+Foi proposto por Huang et al. (1998). É semelhante ao teste de convergência de Cauchy, e definimos uma soma da diferença, SD, como
+
+##### Número S
+
+Este critério baseia-se no chamado número S, que é definido como o número de "siftings" consecutivos para os quais o número de zero crossings e extremos são iguais ou no máximo diferentes por um, onde "sifting" denota o processo de extrair uma IMF de um dado sinal.
+O processo só é interrompido se, para S "siftings" consecutivos, os números de cruzamentos nulos e extremos permanecerem iguais e forem iguais ou no máximo diferentes por um.
+Este foi o método que escolhemos, nos baseando no paper [6].
 
 #### Referências
 
@@ -39,3 +51,5 @@ Vale ressaltar que não existe um emabamento teórico apra a utilização da spl
 4: [Spline - Wikipédia](https://pt.wikipedia.org/wiki/Spline)
 
 5: [Cheney, W. & Kincaid, D. *Numerical Mathematics and Computing*](https://www.amazon.com/Numerical-Mathematics-Computing-Ward-Cheney/dp/1133103715/ref=dp_ob_title_bk)
+
+6: [Pitch Detection Method Based on Hilbert-Huang Transform for Erhu Music](http://umir.umac.mo/jspui/handle/123456789/14152)
