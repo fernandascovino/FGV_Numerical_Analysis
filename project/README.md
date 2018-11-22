@@ -63,7 +63,7 @@ $$ SD_{k}=\sum_{{t=0}}^{{T}}{\frac  {|h_{{k-1}}(t)-h_{k}(t)|^{2}}{h_{{k-1}}^{2}(
 
 ### O que é HSA?
 
-
+A análise espectral de Hilbert é utilizada para obtermos a frequência instantânea das IMFs.
 
 
 ### Referências
